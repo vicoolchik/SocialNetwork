@@ -132,7 +132,7 @@ namespace SocialNetworkNeo4J
             return userWithFollower;
         }
 
-        // match sp = shortestPath((p: User { username: '$un'})-[*]- (: User{username:'user3'}))return sp
+        // match sp = shortestPath((p: User { username: '$un'})-[*]- (: User{username:'user3'}))return sp gg
         public double ShortestPathToSearthedUser(string searchedUserName)
         {
             var userWithFollowers = Client.Cypher
