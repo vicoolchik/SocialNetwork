@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d756253"
+  },
+  "first_name": "Viktoria",
+  "last_name": "Koval",
+  "username": "user1",
+  "password": "123456",
+  "email": "koval@gmail.com",
+  "hobbys": [
+    "Music",
+    "Outdoor",
+    "Programming",
+    "Cooking"
+  ],
+  "follows": [
+    "user5",
+    "user4",
+    "user8",
+    "user9"
+  ]
+},{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d756254"
+  },
+  "first_name": "Ira",
+  "last_name": "Novak",
+  "username": "user3",
+  "password": "qaz123",
+  "email": "novak@gmail.com",
+  "follows": [
+    "user2",
+    "user4",
+    "user5",
+    "user6"
+  ],
+  "hobbys": [
+    "Reading",
+    "Joggging"
+  ]
+},{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d756256"
+  },
+  "first_name": "David",
+  "last_name": "Howard",
+  "username": "user4",
+  "password": "6CN4lLrTMQ",
+  "email": "david.howard@gmail.com",
+  "follows": [
+    "user1",
+    "user2",
+    "user3",
+    "user10"
+  ],
+  "hobbys": [
+    "Programming",
+    "Football",
+    "Joggging",
+    "Cooking"
+  ]
+},{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d756257"
+  },
+  "first_name": "Christopher",
+  "last_name": "Carter",
+  "username": "user10",
+  "password": "DqRHLCfr5Z",
+  "email": "christopher.carter@qmail.com",
+  "follows": [
+    "user6",
+    "user9",
+    "user3",
+    "user5"
+  ],
+  "hobbys": [
+    "Maths",
+    "Programming",
+    "Music"
+  ]
+},{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d756258"
+  },
+  "first_name": "Samuel",
+  "last_name": "Patel",
+  "username": "user9",
+  "password": "qaz123qaz",
+  "email": "samuel.patel@gmail.com",
+  "follows": [
+    "user10",
+    "user1",
+    "user2",
+    "user4",
+    "user6",
+    "user7",
+    "user8",
+    "user3"
+  ],
+  "hobbys": [
+    "Maths",
+    "Volleyball"
+  ]
+},{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d756259"
+  },
+  "first_name": "David",
+  "last_name": "Long",
+  "username": "user8",
+  "password": "123",
+  "email": "david.long@gmail.com",
+  "follows": [
+    "user1",
+    "user3",
+    "user9",
+    "user5",
+    "user10"
+  ],
+  "hobbys": [
+    "Maths"
+  ]
+},{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d75625a"
+  },
+  "first_name": "Ray",
+  "last_name": "Turner",
+  "username": "user7",
+  "password": "zUnThhjt5h",
+  "email": "ray.turner@gmail.com",
+  "follows": [
+    "user10",
+    "user3",
+    "user9"
+  ],
+  "hobbys": [
+    "Cooking",
+    "Volleyball",
+    "Football"
+  ]
+},{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d75625b"
+  },
+  "first_name": "Alisha",
+  "last_name": "West",
+  "username": "user6",
+  "password": "V7FBKk5y8v",
+  "email": "alisha.west@gmail.com",
+  "follows": [
+    "user1",
+    "user10",
+    "user9",
+    "user6",
+    "user5"
+  ],
+  "hobbys": [
+    "Joggging"
+  ]
+},{
+  "_id": {
+    "$oid": "633f355d82dcc03a5d75625c"
+  },
+  "first_name": "Kevin",
+  "last_name": "Hernandez",
+  "username": "user5",
+  "password": "Yge0yJRj6M",
+  "email": "kevin.hernandez@gmail.com",
+  "follows": [
+    "user1",
+    "user2",
+    "user6",
+    "user7",
+    "user8",
+    "user9"
+  ],
+  "hobbys": [
+    "Cooking"
+  ]
+},{
+  "_id": {
+    "$oid": "633f367382dcc03a5d75625d"
+  },
+  "first_name": "Kate",
+  "last_name": "Vovk",
+  "username": "user2",
+  "password": "123456",
+  "email": "vovk@gmail.com",
+  "follows": [
+    "user1",
+    "user3",
+    "user4",
+    "user5"
+  ],
+  "hobbys": [
+    "Music",
+    "Outdoor",
+    "Programming",
+    "Cooking"
+  ]
+}]
